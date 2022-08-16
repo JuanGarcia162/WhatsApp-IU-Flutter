@@ -99,13 +99,6 @@ class WebScreenLayout extends StatelessWidget {
                           color: Colors.grey,
                         ),
                       ),
-                      IconButton(
-                        onPressed: () {},
-                        icon: const Icon(
-                          Icons.send,
-                          color: Colors.grey,
-                        ),
-                      ),
                     ],
                   ),
                 ),
